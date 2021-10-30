@@ -1,0 +1,90 @@
+{
+  "aargau": [],
+  "appenzell-ausserrhoden": [],
+  "appenzell-innerrhoden": [],
+  "basel-landschaft": [
+    ["GPS", "SP"],
+    ["GLP", "EVP", "BDP", "CVP"],
+    ["FDP", "SVP"]
+  ],
+  "basel-stadt": [
+    ["GPS", "SP"],
+    ["GLP", "EVP", "BDP", "CVP", "FDP", "LPS"],
+    ["EDU", "SVP"]
+  ],
+  "bern": [
+    ["PdA/Sol.", "GPS", "SP"],
+    ["GLP", "EVP", "BDP", "CVP"],
+    ["SD", "EDU"]
+  ],
+  "freiburg": [
+    ["GPS", "SP", "CSP"],
+    ["GLP", "EVP", "BDP", "CVP"],
+    ["SVP", "EDU"]
+  ],
+  "genf": [
+    ["PdA/Sol.", "GPS", "SP"],
+    ["GLP", "EVP"],
+    ["CVP", "FDP"],
+    ["SVP", "EDU", "MCR"]
+  ],
+  "glarus": [],
+  "graubunden": [
+    ["GPS", "SP", "GLP"],
+    ["BDP", "CVP", "FDP"]
+  ],
+  "jura": [],
+  "luzern": [
+    ["GPS", "SP", "GLP"],
+    ["CVP", "FDP"]
+  ],
+  "nauenburg": [],
+  "nidwalden": [],
+  "obwalden": [],
+  "schaffhausen": [
+    ["GPS", "SP"],
+    ["GLP", "EVP", "CVP"],
+    ["SVP", "EDU"]
+  ],
+  "schwyz": [
+    ["GPS", "SP"],
+    ["CVP", "GLP", "EVP"]
+  ],
+  "solothurn": [
+    ["GPS", "SP"],
+    ["CVP", "GLP", "EVP", "BDP"]
+  ],
+  "st-gallen": [
+    ["GPS", "SP"],
+    ["GLP", "EVP", "BDP", "CVP"],
+    ["SVP", "EDU"]
+  ],
+  "tessin": [
+    ["PdA/Sol.", "GPS", "SP"],
+    ["GLP", "CVP", "FDP"],
+    ["SVP", "EDU", "Lega"]
+  ],
+  "thurgau": [
+    ["GPS", "SP", "GLP"],
+    ["EVP", "BDP", "CVP"],
+    ["FDP", "SVP", "EDU"]
+  ],
+  "uri": [],
+  "waadt": [
+    ["GPS", "SP", "PdA/Sol."],
+    ["EVP", "BDP", "CVP", "EDU"]
+  ],
+  "wallis": [
+    ["GPS", "SP", "CSP"],
+    ["GLP", "FDP"]
+  ],
+  "zug": [
+    ["GPS", "SP", "EVP"],
+    ["CVP", "FDP"]
+  ],
+  "zurich": [
+    ["PdA/Sol.", "GPS", "SP"],
+    ["GLP", "EVP", "BDP", "CVP"],
+    ["SVP", "EDU"]
+  ]
+}
