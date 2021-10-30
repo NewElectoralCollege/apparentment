@@ -11,6 +11,7 @@ Data Sources:
 
 - [How the Swiss electoral system works](http://electionresources.org/ch/)
 - [How to count and cast the ballots](https://www.ch.ch/en/elections2019/i-have-cast-my-vote-what-happens-now/counting-ballot-papers-in-national-council-elections-in-cant)
+- [Electoral Law](https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/en#a40)
 
 # Translation
 
